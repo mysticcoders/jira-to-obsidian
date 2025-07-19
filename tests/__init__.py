@@ -1,0 +1,1 @@
+"""Test package for jira_to_obsidian."""
